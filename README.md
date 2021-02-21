@@ -1,6 +1,22 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+# Project
+A small website with Svelte which has the following functionalities 
+1, In a Textbox you can enter an e-mail-address. 
+2, The address has to be validated. 
+	- If the address is not valid, a message should be shown 
+	- If the address is valid a button should be enabled 
+3, On klick on the button the address should be added to a list. 
+4, Each list item should be deleteable.
 
----
+# Project setup
+1, Download Files.
+2, Open a terminal window and set the project up.
+Example :(cd /path/svelte-app
+          npm install)
+3, start up a development server
+    npm run dev
+4, This will serve application on a local URL, You can view website on this link.
+
+
 
 # svelte app
 
@@ -24,7 +40,6 @@ Install the dependencies...
 cd svelte-app
 npm install
 ```
-
 ...then start [Rollup](https://rollupjs.org):
 
 ```bash
