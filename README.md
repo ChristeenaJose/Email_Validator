@@ -11,9 +11,9 @@ A small website with Svelte which has the following functionalities
 1, Download Files.
 2, Open a terminal window and set the project up.
 Example :(cd /path/svelte-app
-          npm install)
+          "npm install")
 3, start up a development server
-    npm run dev
+    "npm run dev"
 4, This will serve application on a local URL, You can view website on this link.
 
 
