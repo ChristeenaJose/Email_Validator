@@ -1,5 +1,6 @@
 # Project
-A small website with Svelte (Svelte is a modern JavaScript framework for building fast and lightweight web applications.) which has the following functionalities 
+A small website with Svelte (Svelte is a modern JavaScript framework for building fast and lightweight web applications.) 
+Application has the following functionalities 
 ##### 1, In a Textbox you can enter an e-mail-address. 
 ##### 2, The address has to be validated. 
 ###### - If the address is not valid, a message should be shown 
